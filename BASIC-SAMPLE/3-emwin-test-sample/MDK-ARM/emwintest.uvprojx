@@ -513,11 +513,6 @@
               <FileType>1</FileType>
               <FilePath>../Src/stm32f1xx_hal_msp.c</FilePath>
             </File>
-            <File>
-              <FileName>GUI_Touch_Calibrate.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\emwin\config\GUI_Touch_Calibrate.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
